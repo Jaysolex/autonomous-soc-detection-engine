@@ -51,7 +51,7 @@ These logs act as the primary telemetry source for detection.
 
 ---
 
-## 🚨 Detection Output (SIEM Simulation)
+##  Detection Output (SIEM Simulation)
 
 ![Detection](screenshots/detection-output.png)
 
@@ -66,7 +66,7 @@ Simulates how alerts would appear in a real SOC environment.
 
 ---
 
-## 📊 Detection Summary (Analyst View)
+## Detection Summary (Analyst View)
 
 ![SIEM](screenshots/siem-output.png)
 
@@ -74,7 +74,7 @@ Aggregated findings provide an analyst-friendly overview similar to SIEM dashboa
 
 ---
 
-## 🚨 C2 Beaconing Detection (Behavioral Analysis)
+##  C2 Beaconing Detection (Behavioral Analysis)
 
 ### ⚔️ C2 Attack Simulation
 
@@ -89,7 +89,7 @@ for i in {1..10}; do curl http://TARGET:5000/beacon
 
 ---
 
-### 📜 C2 Log Evidence
+###  C2 Log Evidence
 
 ![C2 Logs](screenshots/c2-logs.png)
 
@@ -101,7 +101,7 @@ Observed behavior:
 
 ---
 
-### 🚨 C2 Detection Output
+###  C2 Detection Output
 
 ![C2 Detection](screenshots/c2-detection.png)
 
@@ -132,7 +132,7 @@ C2 beaconing is identified by:
 
 ---
 
-## 🧠 Detection Capabilities
+##  Detection Capabilities
 
 - Brute force detection (threshold-based)  
 - XSS payload detection  
@@ -144,7 +144,7 @@ C2 beaconing is identified by:
 
 ---
 
-## 🧬 MITRE ATT&CK Mapping
+##  MITRE ATT&CK Mapping
 
 | Technique                          | ID     |
 |----------------------------------|--------|
@@ -156,7 +156,7 @@ C2 beaconing is identified by:
 
 ---
 
-## 💼 Skills Demonstrated
+##  Skills Demonstrated
 
 - SOC Alert Triage (L1)  
 - Threat Investigation (L2)  
@@ -167,7 +167,7 @@ C2 beaconing is identified by:
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 
 - Python (Flask)  
 - Linux (Ubuntu / Kali)  
